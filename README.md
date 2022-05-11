@@ -29,7 +29,8 @@ Realizar directos en la plataforma de twitch como subir contenido a otras plataf
 También suelo realizar deporte como tenis para refrescarme como el tenis o padel
 ![](https://as01.epimg.net/tenis/imagenes/2022/05/10/masters_1000/1652209396_052660_1652209554_marcador_normal_recorte1.jpg)  
 
-Por ultimo a remarcar soy gran amante de los videojuegos, como titulos favoritos podría destacar Hollow Knight y Subnautica entre muchos
+Por ultimo a remarcar soy gran amante de los videojuegos, como titulos favoritos podría destacar Hollow Knight y Subnautica entre muchos  
+
 ![](https://cdn1.epicgames.com/epic/offer/subnautica_Primary_Promo-2560x1456-2560x1456-54f6400297744b829169a9bc66167418-2560x1456-f12365336e938496e789e1203f8af48a.jpg?h=270&resize=1&w=480) 
 
 Si quieres contactar conmigo no te cortes y podremos colaborar en todo lo posible, _Sttay tunned guys_ :wink:
