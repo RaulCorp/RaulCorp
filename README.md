@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **RaulCorp/RaulCorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Bienvenido a mi perfil, me llamo Raúl Corporales :zap:
+![](https://github.com/RaulCorp/Imagen-GIF/blob/main/Metroidvania_Interior.gif)
+
+Soy de España, de la ciudad de **Valladolid** en concreto. 
+
+Ahora mismo estoy estudiando:school_satchel: desarrollo de aplicaciones multiplataforma :computer:, se utilizar lenguajes de programación como **JAVA** pero también conozco el uso de lenguajes de marcas como pueden ser:
+* **HTML**
+* **CSS**
+* **XSL**
+* **XML**
+
+Algunos de mis trabajos puedes verlos cuando los vaya subiendo [clicando aqui](https://github.com/RaulCorp)
+
